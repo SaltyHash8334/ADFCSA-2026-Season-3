@@ -8,6 +8,7 @@ Writeups for the ADF CSA 2026 Season 3 CTF challenges by SaltyHash443.
 |---|-----------|----------|------|
 | 1 | [Echo Lost Key](writeups/echo-lost-key.md) | Digital Forensics | `FLAG{ctrl_v}` |
 | 2 | [APatchy](writeups/apatchy.md) | Secure Coding | `FLAG{A_patchy_PHP_fix_app1ied_n0w}` |
+| 3 | [corruptedPortal](writeups/corruptedportal.md) | Network Exploitation | `FLAG{SMORT_SMORT_DNS}` |
 
 ## Structure
 
@@ -19,5 +20,5 @@ scripts/        # Helper scripts and tools
 
 ## Stats
 
-- **2** challenges solved
-- **2** writeups published
+- **3** challenges solved
+- **3** writeups published
